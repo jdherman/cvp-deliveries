@@ -1,0 +1,49 @@
+                                                                                                    TABLE 38
+ 
+                              UNITED STATES DEPARTMENT OF THE INTERIOR - BUREAU OF RECLAMATION
+ 
+                                                     SACRAMENTO-SAN JOAQUIN VALLEY
+                                                          STREAMFLOW DATA
+                                                                   1993
+ 
+MEAN MONTHLY FLOW IN CFS
+ 
+                                 JAN    FEB    MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC
+ 
+SACRAMENTO RIVER
+ 
+  SHASTA INFLOW (COMPUTED)     12936  15201  26117  15146  10542   9058   4156   3611   3545   3621   3476   5210
+  AT KESWICK DAM                3007   3981  21390   8060   7710  11908  10803  11550   9440   6000   5000   5000
+  AT BEND BRIDGE               14465  11738  29940  14335  10280  15644  11661  12150   9810   7170   5940   6630
+  AT ORD FERRY                 30175  26235  34860  17267   9090  14638   7761   9000   7550   6000   4700   6840
+  AT COLUSA                    24214  23200  23660  17960   9290  14416   7882   9370   8380   6695   5160   7430
+  BELOW WILKINS SLOUGH         21830  22746  20200  17640   8760  14053   6956   8540   8574   7160   5590   8630
+  AT VERONA                    41402  41492  42130  38599  20100  26202  15809  19250  15030  12320  11060  18340
+  AT SACRAMENTO "I" ST         44630  24700  47340  41490  24980  30500  20520  22660  17040  15090  12850  20600
+ 
+ 
+MISCELLANEOUS STATIONS
+ 
+  AMERICAN R. FOLSOM INFLOW     7779   6597   9238   7601   7179   5669   2626   2215   1722   1291   1297   1807
+  AMERICAN R. AT NIMBUS DAM     4159   6115   7190   3490   5400   5792   5387   3820   2270   2650   1810   2320
+  KINGS R. AT PINE FLAT DAM       36     31    645   3388   5763   7029   7614   4646   3050   2142    102     52
+ 
+ 
+SAN JOAQUIN RIVER
+ 
+  AT FRIANT DAM                   48     36    430   1213    920   1067    680    290    260    170    130    104
+  NEAR VERNALIS                 4104   3007   2700   3416   3570   2325   1522   2000   2800   3040   1790   1640
+ 
+PUTAH CREEK
+  MONTICELLO INFLOW (COMP)      4514   2821    758    319    153    109    -33    -23    -10      7     52    318
+  PUTAH CREEK-LAKE SOLANO        257    135     29     46     43     43     43     34     20     20     25     25
+ 
+STANISLAUS RIVER
+ 
+  NEW MELONES INFLOW            2429   1938   2752   2369   4100   3478   1399    863    701    818    737    899
+  AT TULLOCH DAM                 453    206    431   1271   2635   1612   1967   1719   1503    826    311    307
+  AT ORANGE BLOSSOM              596    253    292    458   1453    511    404    286    230    608    356    322
+ 
+ 
+ 
+*  Data supplied by Central Valley Operations Coordinations Office

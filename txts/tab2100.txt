@@ -1,0 +1,43 @@
+                                        U.S. Department of Interior - Bureau of Reclamation                   Table 21
+                                               Central Valley Operations Office
+ 
+                                        Central Valley Project - California
+Monthly Diversions in AF                               2000
+ 
+                              Jan  Feb    Mar    Apr    May    Jun    Jul    Aug    Sep    Oct    Nov    Dec    Total
+Bold numbers are preliminary
+          CANALS
+ 
+Contra Costa                9942   8041   9930  14663   5681  20841  16519  15047  12946   3874   2293    774   120551
+Delta-Mendota             197057 236278 207845 131312  77646 181167 265539 269683 252870 258752 241646 240446  2560241
+Actual Fed Dos Amigos      49387  48545  22313  80443 128533 204919 157348  33545  17800  25227  47687  53475   869222
+Madera                         0      0   9082  35578  46914  52277 157348  37732  22376  13480      0      0   374787
+Friant-Kern                11643   5677 116092 111072 259065 214385 208942 166140  95642  44246  16197  15493  1264594
+Corning                        0      0    450    964   1823   4217   3939   3915   2660   1196    603    127    19894
+Folsom-South                1601   1002   1513   2083   2444   2456   2811   2636   2229   1966   2015   3182    25938
+Sly Park - Camino Conduit    752    666    758    616   1222   1932   2700   3009   1924   1511    801    996    16887
+Tehama-Colusa               4433      0   3511  14353  33390  68341  64164  69075  16558   6208    260   1016   281309
+ 
+     CACHUMA PROJECT
+ 
+Tecolete Tunnel             2091   1344   1698   2551   3145   2965   2947   2844   2660   1782   1801   1774    27602
+ 
+     KLAMATH PROJECT
+ 
+"A" Canal - Upper Klamath      0      0    120  17860  46580      NR 57770  57110  29300   9420      0      0   218160
+Klamath Drainage District  18065   8772   5562  10388   8213      NR 15940  15940  15940   1025   2371      NA  102216
+Clear Lake Reservoir           0      0      0    230   5750      NR  6980   9740  27350      0      0      0    50050
+Gerber Reservoir               0      0    570    470   6100      NR  8200   8200   5160      0      0      0    28700
+Klamath River to Lost Rive     0      0      0    165   7063      NR 14854  14854  14854   9521      0      0    61311
+ 
+      ORLAND PROJECT
+ 
+Stony Creek                    0      0   1315   9269  13392  18615  19156  18024  14741   6809      0      0   101321
+South Canal                    0      0    942   6278   9626  13496  13257  12121   9604   2495      0      0    67819
+North Canal                    0      0    373   2991   3766   5119   5899   5903   5137   4314      0      0    33502
+ 
+      SOLANO PROJECT
+ 
+Putah South Canal           2430   2590   5027  18619  28420  39638  38786  32055  19341   8179   2577   2667   200329
+ 
+NA = Not Available at time of printing report

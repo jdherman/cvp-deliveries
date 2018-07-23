@@ -1,0 +1,47 @@
+                                                                                             Table 2
+                                      U.S. Department of Interior - Bureau of Reclamation
+                                            Central Valley Operations Office
+ 
+                                SACRAMENTO-SAN JOAQUIN VALLEY  - STREAMFLOW DATA
+Mean Monthly Flow in cfs                           2000
+ 
+                           Jan   Feb   Mar   Apr   May   Jun   Jul    Aug   Sep   Oct   Nov    Dec
+ 
+SACRAMENTO RIVER
+ 
+Shasta Computed Inflow    13590 26886 17750  5912  8052  5877  4629   4228  4486  4738  4524   5090
+At Keswick                 7281 26477 21029  7880 11424 12807 14894  11499  7352  5918  5400   4817
+At Bend Bridge            12221 38287 30746 10836 12656 13574 15520  11855  7966  6917  6740   6803
+At Vina Bridge            13076 46524 36230 11329 11993 11431 13493   9829  6854  6315  6307   6062
+At Ord Ferry              13469 48121 38467 12157 11566 10468 12453   9616  7050  5653  6279   6565
+At Colusa                 12777 32963 27994 11888 10411  9249 10510   8211  6735  5220  5455   5824
+Below Wilkins Slough      12095 25053 22528 11963  9716  7944  9537   7717  7091  5498  6220   6557
+At Verona                 19490 52506 52187 22390 17670 14864 19321  17452 14739 10247 10568  11591
+Sacramento at "I" Street  22676 61212 58766 26536 21495 17006 21994  18836 16469 12160 12717  14084
+ 
+ 
+MISCELLANEOUS STATIONS
+ 
+Folsom Computed Inflow     4333 10943  6890  3503  5147  3007  1733   3129  1870   895  1945   2097
+American River at Nimbus D 3720 10190  5579  4343  3667  2665  3218   1857  1508  2037  2171   2508
+Kings River at Pine Flat    191    76   462  1588  4070  6145  6499   3833  1019   595   118    101
+ 
+ 
+SAN JOAQUIN RIVER
+ 
+At Friant Dam                86    50   876   134   127   465   230    249   243   204   185    178
+Near Vernalis              2080  7353 12540  5412  4911  2902  2109   2106  2331  2829  2430   2228
+ 
+PUTAH CREEK
+Berryessa Computed Inflow   626  3000  1199   262   141    66     0      0     0     0     0    668
+Putah Creek - Lake Solano    27    84   562    55    43    43    43     34    20    20    36     43
+ 
+STANISLAUS RIVER
+ 
+New Melones Computed Inflo 1154  1075  2134  2177  2626  2040   996   1031  1022   842   726    929
+At Tulloch Dam              543  1441  2104  2268  2836  2024  2033   1974  1471   696   412    399
+At Orange Blossom           387  1550  2115  1162  1500   422   418    356   337   506   580    549
+ 
+ 
+*  Data supplied by Central Valley Operations Coordinations Office
+    Daily mean is derived from 7 am daily reading.
